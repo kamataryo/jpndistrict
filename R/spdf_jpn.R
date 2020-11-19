@@ -2,7 +2,7 @@
 #'
 #' @description Prefecture polygon data.
 #' @details Collect unit of prefecture simple feature data.frame objects..
-#' If downalod argument is *TRUE*, download administrative area data from
+#' If download argument is *TRUE*, download administrative area data from
 #' the National Land Numeral Information Download Service (for law data).
 #' @param pref_code jis code from 1 to 47
 #' @param admin_name prefecture names (string)
